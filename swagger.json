@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/Dazaiii1/poc-scout/main/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/poc-scout/Swagger/main/swagger.yaml",
+            "name": "Foo"
+        }
+    ]
+}
+
